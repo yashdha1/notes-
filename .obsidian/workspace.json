@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2255ee692d1addd",
+        "id": "8dfae020d51e3699",
         "type": "tabs",
         "children": [
           {
-            "id": "a9045971ada66af1",
+            "id": "72b54a021899defe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/basestarter.md",
+                "file": "DESIGN PATTERN/BEHAVORIAL/5 .Observer Pattern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "basestarter"
+              "title": "5 .Observer Pattern"
+            }
+          },
+          {
+            "id": "1304d65e077bf7f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML and genAI/PROJECT_ML/plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "plan"
+            }
+          },
+          {
+            "id": "c03df063619bd56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/SYSTEM DESIGN CONCEPTS TO KNOW..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SYSTEM DESIGN CONCEPTS TO KNOW."
+            }
+          },
+          {
+            "id": "804ec1ec31c7644f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "claude/intro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "intro"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.51103591918945
+    "width": 200
   },
   "right": {
     "id": "d2f69f1da992e40d",
@@ -189,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,57 +280,58 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "8ee1c8bcb1d25b00",
+  "active": "804ec1ec31c7644f",
   "lastOpenFiles": [
-    "test.py",
-    "pyN/Test and pytest.docx",
-    "pyN/sso_autheticate.docx",
-    "pyN/SQL and DBMS Wali Shit.odt",
-    "pyN/PEP8 Standards of CLEAN Code.odt",
-    "pyN/NO SQL.odt",
-    "pyN/Multithreading and multiprocessing in PYTHON.odt",
-    "pyN/LOGING AND TESTING IN PYTHON.odt",
-    "pyN/Logging and debugging for the sake of the PROJECT.odt",
-    "pyN/iceberg.docx",
-    "pyN/github shit.docx",
-    "GC/template.md",
+    "Pasted image 20260529122324.png",
+    "System Design/SYSTEM DESIGN CONCEPTS TO KNOW..md",
+    "claude/intro.md",
+    "claude",
     "System Design/AGILE.md",
     "System Design/1. Architectures.md",
+    "ML and genAI/din_project/intresting.md",
     "ML and genAI/PROJECT_ML/plan.md",
-    "ML and genAI/LANGGRAPH/3 Thinking in LangGraph.md",
-    "GC/INTERVIEW/TOPICS.md",
-    "GC/git/git.md",
-    "igrep/CLAUDE.md",
-    "igrep/INSTALL.md",
-    "igrep/pypi.md",
-    "GC/PYTHON/DSA Graphs/topics wali shi.md",
+    "ML and genAI/din_project",
+    "ML and genAI/remember.md",
+    "ML and genAI/pre.md",
+    "ML and genAI/tools.md",
+    "GC/template.md",
     "GC/TOprep.md",
-    "GC/PYTHON/lrucache.md",
-    "ML and genAI/concreate/with agents things.md",
+    "DESIGN PATTERN/BEHAVORIAL/5 .Observer Pattern.md",
+    "DESIGN PATTERN/BEHAVORIAL/4. Momento.md",
+    "DESIGN PATTERN/BEHAVORIAL/3. iterator.md",
+    "DESIGN PATTERN/BEHAVORIAL/2. Command.md",
+    "DESIGN PATTERN/BEHAVORIAL/1. Chain of Responsiblity.md",
+    "DESIGN PATTERN/STRUCTURAL/6. Proxy.md",
+    "DESIGN PATTERN/STRUCTURAL/5. Fascade Pattern.md",
+    "DESIGN PATTERN/STRUCTURAL/4. Decorator.md",
+    "DESIGN PATTERN/STRUCTURAL/3. Composite.md",
+    "DESIGN PATTERN/STRUCTURAL/2. Bridge.md",
+    "DESIGN PATTERN/STRUCTURAL/1. Adapter.md",
+    "DESIGN PATTERN/CREATIONAL/5. Singleton.md",
     "DESIGN PATTERN/DESIGN Patterns.md",
-    "GC/devlopment/good to know.md",
-    "GC/devlopment/db.md",
-    "GC/devlopment/api.md",
-    "PROJECT/mic/auth.md",
-    "ML and genAI/GENAI/Lang-Chain.md",
-    "ML and genAI/GENAI/Gen AI Throry.md",
-    "DOCKER & K8/12. DOCKER SWARM sasta kubernetes.md",
+    "DESIGN PATTERN/CREATIONAL/4. Prototyping Pattern.md",
+    "Untitled 1.base",
+    "Untitled 4.canvas",
+    "rag-paradigms.webp",
+    "Pasted image 20260519061948.png",
+    "Pasted image 20260423173316.png",
+    "rag-process.webp",
+    "GC/oops",
+    "pyN/~$Docker.odt",
+    "pyN/~$ckend and dev shit.odt",
+    "pyN/~$weirdshit.docx",
+    "pyN/~$NO SQL.odt",
+    "pyN/~$P8 Standards of CLEAN Code.odt",
+    "test.py",
     "DOCKER & K8/docker-architecture.webp",
     "DOCKER & K8/hypervisor.webp",
-    "DOCKER & K8/MAKEFILE.md",
-    "DOCKER & K8/FAST NOTES.md",
-    "DOCKER & K8/11 k8.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Pasted image 20260523201529.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "rag-paradigms.webp",
-    "rag-process.webp",
     "jumpstart-fm-rag.jpg",
     "Pasted image 20260519072428.png",
-    "Pasted image 20260519055919.png",
-    "Pasted image 20260519055830.png",
-    "Pasted image 20260511235537.png"
+    "Pasted image 20260519055919.png"
   ]
 }

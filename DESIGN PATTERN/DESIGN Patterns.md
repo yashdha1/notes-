@@ -5,8 +5,11 @@ You can follow the pattern’s guidelines and implement a solution that fits the
 
 
  
-MOTHER LINK :  https://refactoring.guru/ 
-Also : https://github.com/faif/python-patterns
+- MOTHER LINK :-> https://refactoring.guru/ 
+- Also :-> https://github.com/faif/python-patterns
+- How dp choose v-imp :-> https://medium.com/womenintechnology/stop-memorizing-design-patterns-use-this-decision-tree-instead-e84f22fca9fa 
+- DI and architecture :-> https://levelup.gitconnected.com/clean-architecture-86c4f03e4771 
+- IoC -> inversion of control
 
 ---
 
